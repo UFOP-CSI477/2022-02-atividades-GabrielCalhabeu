@@ -40,7 +40,7 @@ para terminar a sessão posteriormente, em um banco de dados.
 
 Cada usuário deve criar uma conta para usar essa funcionalidade.
 
-É possível usar o app como convidado, e salvar os inimigos em um banco de dados, ao criar uma conta.
+É possível usar o app como convidado, mas para salvar os arquivos, é preciso criar uma conta
 
 <p>
   <img src="https://github.com/GabrielCalhabeu/MobManagerWeb/blob/main/MobManagerGUI.png" alt="exemplo" width=480 height=320>
