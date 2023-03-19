@@ -8,6 +8,13 @@
 - Semestre/Ano correntes: 1/2023
 - Link para o seu GitHub: https://github.com/GabrielCalhabeu
 
+
+
+## Atividades Práticas:
+
+Para as atividades práticas, utilizei o NodeJs, com o MongoDB como banco. Mais informações se encontrarm no README.md do projeto.</br>
+As instruções para rodar o projeto são as mesmas instruções do projeto final que se encontra [aqui](./Projeto/README.md) 
+
 ## [Projeto final:](./Projeto/README.md)
 
 Apresente uma breve descrição do seu projeto.
