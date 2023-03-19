@@ -27,6 +27,7 @@ Salvar as instâncias com um arquivo em sua conta, apagar e carregar o aqruivo.<
 <!-- Descrever as funcionalidades que eram previstas e não foram implementas, apresentando uma breve justificativa do porquê elas não foram incluídas -->
 Algumas funcionalidades não implementandas, que não necessariamente foram previstas, foram:
 Editar perfil, foto, etc;</br>
+Salvar arquivos locais, como convidado;</br>
 Um mesmo usuário poder salvar múltiplas sessões diferentes.</br>
 
 ### 3. Outras funcionalidades implementadas
