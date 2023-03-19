@@ -13,7 +13,7 @@
 ## Atividades Práticas:
 
 Para as atividades práticas, utilizei o NodeJs, com o MongoDB como banco. Mais informações se encontrarm no README.md do projeto.</br>
-As instruções para rodar o projeto são as mesmas instruções do projeto final que se encontra [aqui](./Projeto/README.md) 
+As instruções para rodar o projeto são as mesmas instruções do projeto final que se encontra [aqui](./Atividades/atividade-pratica-02/README.md) 
 
 ## [Projeto final:](./Projeto/README.md)
 
